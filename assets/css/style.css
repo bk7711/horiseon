@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* start of header and nav bar */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,7 +45,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* end of header and nav bar */
 
+/* start of hero image */
 p {
     font-size: 16px;
 }
@@ -58,7 +60,14 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* end of hero section */
 
+/* start of main and aside with company offerings*/
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +77,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -118,7 +120,9 @@ article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end of main and aside */
 
+/* start of footer */
 footer {
     padding: 30px;
     clear: both;
@@ -129,3 +133,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* end of footer */
