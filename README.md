@@ -5,7 +5,7 @@ This repository is a revision of Horiseon's website design. The company speciali
 
 ## Installation
 To view the repository as well as the actual webpage, please use the following link for access.
-https://bk7711.github.io/week1hw/ - Horiseon webpage
+https://bk7711.github.io/horiseon/ - Horiseon webpage
 
 Below is a preview of the html:
 
